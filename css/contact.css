@@ -1,0 +1,16 @@
+
+
+.contact {
+    margin: 0rem auto;
+    padding: 3rem 0rem;
+    color: var(--white);
+}
+
+.contact h2.contact_heading {
+    position: relative;
+    font-size: 3rem;
+    font-weight: 700;
+    /* color: var(--darkblack); */
+    text-align: center;
+    letter-spacing: 1px;
+}
